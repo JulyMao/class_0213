@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.me</groupId>
+    <artifactId>class_0213</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>scala</module>
+        <module>day02</module>
+        <module>day03</module>
+        <module>day04</module>
+        <module>day05</module>
+        <module>day06</module>
+        <module>day07</module>
+        <module>day08</module>
+        <module>day09</module>
+        <module>day10</module>
+        <module>spark</module>
+        <module>summer-framework</module>
+        <module>summer-framework2</module>
+    </modules>
+
+
+</project>
